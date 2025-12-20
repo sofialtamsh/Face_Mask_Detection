@@ -147,4 +147,4 @@ Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to change.
 
 ## 🪪 License
-MIT License © 2025 [Sofi](https://github.com/sofialtamsh)
+MIT License © 2025 [Sofi Altamsh](https://github.com/sofialtamsh)
