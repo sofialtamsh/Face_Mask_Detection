@@ -11,7 +11,7 @@ A computer vision project that detects whether a person is wearing a face mask o
 
 
 ## 🛠️ Tech Stack
-- Python
+- Python 
 - OpenCV
 - TensorFlow / Keras
 - NumPy
