@@ -2,7 +2,7 @@
 
 
 A computer vision project that detects whether a person is wearing a face mask or not using machine learning and image processing techniques.
- 
+  
 ## 📌 Features
 - Detects **face with mask** and **face without mask**
 - Uses **computer vision & deep learning**
